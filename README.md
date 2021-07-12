@@ -23,21 +23,21 @@
 
     ```json
     {
-      classifier_id: 'f153e2x282-nlc-857',
-      url: 'https://api.jp-tok.natural-language-classifier.watson.cloud.ibm.com/instances/fd9ad2f7-cebe-45cb-a29a-7ba3947e6440/v1/classifiers/f153e2x282-nlc-857',
-      text: '住所6',
-      top_class: '住所',
-      classes: [
-        { class_name: '住所', confidence: 0.9791791933573004 },
-        { class_name: '電話番号', confidence: 0.004796648430736545 },
-        { class_name: '年収', confidence: 0.0032380148074097567 },
-        { class_name: '会社', confidence: 0.002215989873250711 },
-        { class_name: '年齢', confidence: 0.0021697865525811297 },
-        { class_name: '名前', confidence: 0.001999267610168911 },
-        { class_name: 'メールアドレス', confidence: 0.0015655795526403988 },
-        { class_name: '会員ID', confidence: 0.0013709307485950076 },
-        { class_name: '商品名', confidence: 0.0012004826674399994 },
-        { class_name: 'ニックネーム', confidence: 0.0011725160881941202 }
+      "classifier_id": "f153e2x282-nlc-857",
+      "url": "https://api.jp-tok.natural-language-classifier.watson.cloud.ibm.com/instances/fd9ad2f7-cebe-45cb-a29a-7ba3947e6440/v1/classifiers/f153e2x282-nlc-857",
+      "text": "住所6",
+      "top_class": "住所",
+      "classes": [
+        { "class_name": "住所", "confidence": 0.9791791933573004 },
+        { "class_name": "電話番号", "confidence": 0.004796648430736545 },
+        { "class_name": "年収", "confidence": 0.0032380148074097567 },
+        { "class_name": "会社", "confidence": 0.002215989873250711 },
+        { "class_name": "年齢", "confidence": 0.0021697865525811297 },
+        { "class_name": "名前", "confidence": 0.001999267610168911 },
+        { "class_name": "メールアドレス", "confidence": 0.0015655795526403988 },
+        { "class_name": "会員ID", "confidence": 0.0013709307485950076 },
+        { "class_name": "商品名", "confidence": 0.0012004826674399994 },
+        { "class_name": "ニックネーム", "confidence": 0.0011725160881941202 }
       ]
     }
     ```
